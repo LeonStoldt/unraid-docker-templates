@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>FlashPaper</Name>
-  <Repository>andrewpaglusch/flashpaper</Repository>
+  <Repository>ghcr.io/andrewpaglusch/flashpaper</Repository>
   <Registry>https://hub.docker.com/r/andrewpaglusch/flashpaper</Registry>
   <Network>bridge</Network>
   <MyIP/>
